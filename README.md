@@ -5,6 +5,11 @@ This project provides a REST API to predict penguin species based on physical me
 
 Load testing is performed using Locust to ensure the application’s robustness and performance under different traffic scenarios.
 
+#Cloud link for penguin species prediction
+
+https://penguin-api-111837677549.northamerica-northeast1.run.app/docs#/default/predict_species_predict_post
+
+
 ---
 
 ## Setup Instructions
